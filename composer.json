@@ -1,0 +1,13 @@
+{
+  "name": "mautic/runner",
+  "description": "Street Expo Email Theme by Ricardo Freire",
+  "type": "mautic-theme",
+  "keywords": ["mautic","theme"],
+  "extra": {
+    "install-directory-name": "street-expo"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "mautic/core-lib": "^5.0"
+  }
+}
